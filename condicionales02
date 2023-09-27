@@ -1,0 +1,5 @@
+#victoria Gomez Lopez-a00573409
+
+def hurra():
+  usuario=int(input("introduce un numero:"))
+  if 
