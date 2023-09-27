@@ -1,0 +1,12 @@
+#Victoria Gomez Lopez-A00573409
+
+def numero():
+  num=int(input("introduce un numero:"))
+  if num >0:
+   print("el numero es positivo")
+  elif num<0:
+   print("el numero es negativo")
+  elif num==0:
+   print("el numero es cero")
+
+numero()
