@@ -1,5 +1,8 @@
 #victoria Gomez Lopez-a00573409
 
 def hurra():
-  usuario=int(input("introduce un numero:"))
-  if 
+  numero_usuario=int(input("introduce un numero:"))
+  if -10<=numero_usuario<=10:
+    print("Hurra!")
+hurra()
+
